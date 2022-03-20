@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+README for ARCADE test documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Astronomy Reduction in the CANFAR Data Environment provides cloud-based
+computing resources for astronomers working with large observational
+datasets.
