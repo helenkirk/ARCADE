@@ -10,6 +10,10 @@ ALMA archive.
    .. image:: images/archive/1_firefox_browse_archive.png
 
 You can use the filters to help identify the data you are interested in.
+For more information on using the archive query effectively, see this
+instructional video: 
+https://almascience.nrao.edu/alma-data/archive/archive-video-tutorials
+
 Select the dataset(s) of interest by ticking the box(es) to the left of
 each project.
 
