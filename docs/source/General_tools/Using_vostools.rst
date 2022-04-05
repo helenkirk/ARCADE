@@ -25,7 +25,16 @@ To copy a file from VOSpace to your personal computer, you would use::
 
    vcp vos:[username]/myfile.txt ./
 
-Note that the base directory structure differs slightly between VOSpace
+To copy files from ARCADE to VOSpace, you would similarly use the command::
+
+  vcp myfile.txt vos:[username]
+
+with the command being run on a terminal *within ARCADE*.  Note that it is 
+not yet possible to initiate file transfers between ARCADE and VOSpace from your
+personal computer.
+
+Also, you may have noticed that the base directory structure differs slightly 
+between VOSpace
 and ARCADE; ARCADE includes a 'home' directory, while VOSpace does not.
 Other commands such as *vls* to list files and *vrm* to remove/delete
 files may also be useful.
