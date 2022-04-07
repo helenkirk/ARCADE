@@ -3,10 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ARCADE's documentation!
-==================================
+Welcome to the ARCADE Science Platform's documentation!
+========================================================
 
-ARCADE (Astronomy Reduction in the CANFAR Data Environment) is a 
+The ARCADE (Astronomy Reduction in the CANFAR Data Environment) 
+Science Platform is a 
 platform which provides astronomers the computing resources they
 need to work with their data.
 
@@ -30,6 +31,7 @@ ALMA Tutorials (Desktop Session)
 
    ALMA_Desktop/start_casa
    ALMA_Desktop/archive_download
+   ALMA_Desktop/typical_reduction
 
 General Tutorials
 -----------------
