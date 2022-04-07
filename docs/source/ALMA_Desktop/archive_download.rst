@@ -1,4 +1,4 @@
-.. _desktop_download_page:
+.. _desktop_download:
 
 Download Data from the ALMA Archive
 =============================================
