@@ -1,9 +1,10 @@
 .. _desktop_download:
 
-Download Data from the ALMA Archive
-=============================================
+Download Data from the ALMA Archive (web browser)
+=================================================
 
-Downloading data from the ALMA archive is quite straightforward.
+Downloading data directly from an ALMA archive web query 
+is quite straightforward.
 Double-click on the Firefox icon on the desktop, and navigate to the
 ALMA archive.
 
@@ -48,6 +49,8 @@ download script has been saved.  The default is usually under Downloads/
 within your home directory.
 
    .. image:: images/archive/8_download_data6.png
+
+.. _desktop_run_download_script:
 
 Open a terminal (double-click the terminal icon), go to the Downloads
 directory, and run the data download script.
