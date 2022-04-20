@@ -1,6 +1,6 @@
 .. _typical_reduction:
 
-Example: Reduce and Image Data
+Example: reduce and image data
 =============================================
 
 This tutorial walks through an example of reducing and imaging

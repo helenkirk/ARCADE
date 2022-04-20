@@ -1,6 +1,6 @@
 .. _desktop_script_download:
 
-Download Data from the ALMA Archive (transfer script)
+Download data from the ALMA archive (transfer script)
 ======================================================
 
 Downloading data from the ALMA archive directly using a web
